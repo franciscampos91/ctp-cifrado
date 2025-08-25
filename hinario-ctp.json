@@ -1,0 +1,40 @@
+[
+  {
+    "id": 136,
+    "titulo": "Buscai Primeiro",
+    "nome_original": "Seek Ye First",
+    "autor": "Karen Lafferty",
+    "arranjo": "Mauricio Silveira",
+    "assunto": "Consagração",
+    "tom": "C",
+    "partes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "[C]Buscai pri[Em]meiro o [F]Reino de D[C]eus",
+          "[Dm]e a [C]sua jus[Dm7]ti [G7]ça,",
+          "[C]E todas as [Em]coisas vos se[Am]rão acrescen[Em]tadas.",
+          "[Dm]Ale [C]luia! Ale[Dm7]lu[G]i[C]a!"
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "[C]Não só de [Em]pão o [F]homem vive[C]rá,",
+          "mas de [Dm]toda pa[C]lavra,",
+          "Que pro[C]cede da [Em]boca de [Am]Deus.",
+          "Ale[Dm]luia! Ale[C]luia! Ale[G7]luia! Ale[C]luia!"
+        ]
+      },
+      {
+        "numero": 3,
+        "linhas": [
+          "[C]Batei, ba[Em]tei e a[F]brir-se-vos-[C]á;",
+          "buscai [Dm]e a[C]chareis.",
+          "Pe[C]di, pedi e [Em]dar-se-vos-[Am]á.",
+          "Ale[Dm]luia! Ale[C]luia! Ale[G7]luia! Ale[C]luia!"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Hinário CTP</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    .cifra { display: inline-flex; flex-direction: column; align-items: center; margin-right: 2px; }
+    .acorde { font-weight: bold; font-size: 0.9em; color: darkblue; line-height: 1; }
+
+    .cifra {
+  display: inline-block;
+  text-align: left;
+  vertical-align: bottom;
+}
+
+.acorde {
+  display: block;
+  font-weight: bold;
+  color: blue;
+  border: 1px dashed darkolivegreen;
+}
+
+
+  </style>
+</head>
+<body id="body">
+  <h1>Hinário CTP</h1>
+  <div id="hino"></div>
+
+
+
+</body>
+
+
+<script src="hinario-ctp.js"></script>
+<script>
+  console.log(hinos[0].titulo);
+
+  // Função que formata as cifras no texto
+  function formatarCifras(texto) {
+    const partes = texto.split(/(\[[^\]]+\])/g);
+    let resultado = '';
+    let acordeAtual = null;
+
+    for (const parte of partes) {
+      if (parte.startsWith('[') && parte.endsWith(']')) {
+        acordeAtual = parte.slice(1, -1);
+      } else if (parte.length > 0) {
+        if (acordeAtual) {
+          resultado += `<span class="cifra"><span class="acorde">${acordeAtual}</span><span class="letra">${parte}</span></span>`;
+          acordeAtual = null;
+        } else {
+          resultado += `<span class="cifra"><span class="acorde">&nbsp;</span><span class="letra">${parte}</span></span>`;
+        }
+      }
+    }
+    return resultado;
+  }
+
+  // Função para carregar e mostrar o hino na página
+  function carregarHino() {
+    const hino = hinos[1]; // pegar o primeiro hino
+
+    const container = document.getElementById('hino');
+    container.innerHTML = `
+      <h2>${hino.numero} - ${hino.titulo}</h2>
+      <p><b>Nome original:</b> ${hino.original}</p>
+      <p><b>Autor:</b> ${hino.autor}</p>
+      <p><b>Arranjo:</b> ${hino.arranjo}</p>
+      <p><b>Assunto(s):</b> ${hino.assunto.join(", ")}</p>
+      <p><b>Tom:</b> ${hino.tom}</p>
+    `;
+
+    // Renderiza as partes + coro
+    hino.estrofes.forEach(parte => {
+      container.innerHTML += `<h3>Parte ${parte.numero}</h3>`;
+      parte.linhas.forEach(linha => {
+        container.innerHTML += `<p>${formatarCifras(linha)}</p>`;
+      });
+
+      // Se houver coro, exibe sempre depois da parte
+      if (hino.coro && hino.coro.length > 0) {
+        container.innerHTML += `<h3>Coro</h3>`;
+        hino.coro.forEach(linha => {
+          container.innerHTML += `<p>${formatarCifras(linha)}</p>`;
+        });
+      }
+    });
+  }
+
+  // Chama a função para exibir
+  carregarHino();
+</script>
+
+
+
+</html>

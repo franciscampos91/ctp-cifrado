@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #1f2124;
+    color: #f9f9f9;
+}
+
+.container__indice {
+    margin: auto;
+    width: 480px;
+    /*border: 1px dotted dodgerblue;*/
+}
+
+.indice__hinos {
+    width: 100%;
+    list-style-type: none;
+}
+
+.indice__hino {
+    display: grid;
+    grid-template-areas: "num nome tom assunto"
+                          "num primeira primeira coracao";
+    grid-template-columns: 50px auto auto 70px;
+    background-color: #000000;
+    margin-top: 2px;
+    padding: 6px;
+    border-radius: 5px;
+
+}
+
+.indice__num {
+    grid-area: num;
+    display: grid;
+    place-items: center;
+}
+
+.indice__num > div {
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    border: 1px solid #8c989f;
+    color: #8c989f;
+    display: grid;
+    place-items: center;
+}
+
+.indice__nome {
+    grid-area: nome;
+}
+
+.indice__coracao {
+    grid-area: coracao;
+    display: grid;
+    place-items: center;
+}
+
+.indice__tom {
+    grid-area: tom;
+    display: grid;
+    place-items: center;
+}
+
+.indice__primeira {
+    grid-area: primeira;
+    font-size: 12px;
+    color: #8c989f;
+    font-style: oblique;
+    display: flex;
+    align-items: flex-start;
+}
+
+.indice__assunto {
+    grid-area: assunto;
+    display: grid;
+    place-items: center;
+
+}
+
+.indice__assunto > span {
+    background-color: #8c989f;
+    color: #1f2124;
+    font-size: 12px;
+    padding: 2px;
+    border-radius: 4px;
+    font-weight: 500;
+}
+
+@media (max-width: 768px) {
+
+
+    .container__indice {
+        width: 100%;
+    }
+
+}
