@@ -1,3 +1,7 @@
+console.log('Carrega Hinos...')
+
+
+
 async function carregarHino() {
   const resp = await fetch("../data/hinario-ctp.json");
   const hinos = await resp.json();

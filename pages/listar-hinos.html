@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+.coro {
+    font-weight: 500 !important;
+    color: red !important;
+    background-color: aquamarine;
+}
+
+    </style>
+</head>
+<body>
+
+    <div id="hino"></div>
+    
+</body>
+</html>
+
+
+<script>
+    async function carregarHino() {
+  const resp = await fetch("../hinario-ctp.json");
+  const hinos = await resp.json();
+  //const hino = hinos[0]; // pega o primeiro (id 136)
+  const container = document.getElementById("hino");
+
+  let linhasCoro = '';
+
+  hinos.forEach( hino => {
+    container.innerHTML += `<h5>${hino.numero} - ${hino.titulo}</h5>`;
+
+    hino.estrofes.forEach( partes => {
+        partes.linhas.forEach( linha => {
+            container.innerHTML += `<p>${linha}</p>`;
+        } )
+
+        
+
+if (hino.coro != '') {
+    //container.innerHTML += `<div class='coro'><strong>Coro:</strong>`;
+       
+    linhasCoro = '<div class="coro"> <p>Coro nai: </p>';
+
+        console.log('Coro:')
+
+    hino.coro.forEach(linha => {
+        //container.innerHTML += `<p>${linha}</p>`;
+        linhasCoro += `<p>${linha}</p>`;
+        
+    });
+    linhasCoro+= 'Final do Coro';
+    console.log(linhasCoro)
+    linhasCoro.innerHTML += `</div>`;
+
+    container.innerHTML += linhasCoro;
+}
+
+
+            
+        
+    })
+    
+  })
+  
+  //container.innerHTML = `<h2>${hino.numero} - ${hino.titulo}</h2>`;
+  
+/*hino.partes.forEach(parte => {
+  container.innerHTML += `<h3>${parte.numero}.</h3>`;
+  parte.linhas.forEach(linha => {
+  //  container.innerHTML += `<p>${formatarCifras(linha)}</p>`;
+  });
+});*/
+}
+ 
+ carregarHino();
+
+
+</script>

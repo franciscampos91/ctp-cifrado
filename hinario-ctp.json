@@ -1,13 +1,1382 @@
 [
   {
-    "id": 136,
+    "numero": "1",
+    "titulo": "ADORAI EM MAJESTADE",
+    "primeira": "",
+    "original": "",
+    "autor": "",
+    "tradutor": "",
+    "melodia": "",
+    "assunto": [""],
+    "tom": "",
+    "harpa": "",
+    "cantor": "",
+    "coro": [""],
+    "estrofes": [{
+                  "numero": 1,
+                  "linhas": ["Adorai em majestade!",
+                            "Toda a glória seja dada a Cristo Jesus!",
+                            "Adorai em santidade!",
+                            "Vinde, louvai, e vos prostrai ao pé da cruz."]},
+                {
+                  "numero": 2,
+                  "linhas": ["Exaltai, bem alto erguei de Cristo o nome.",
+                            "Adorai, glorificai Jesus Cristo, o Rei!",
+                            "Adorai em majestade!",
+                            "Ele morreu, ele venceu: é o Rei dos reis! "]
+                  }
+              
+              ]
+  },
+  {
+    "numero": "2",
+    "titulo": "CULT0 À TRINDADE",
+    "primeira": "Deus está no templo! Pai onipotente!",
+    "original": "",
+    "autor": "",
+    "tradutor": "",
+    "melodia": "",
+    "assunto": [""],
+    "tom": "",
+    "harpa": "",
+    "cantor": "",
+    "coro": [""],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "Deus está no templo! Pai onipotente!",
+          "A seus pés nos humilhemos!",
+          "Servos consagrados, reverentemente,",
+          "Ao Santíssimo adoremos!",
+          "Com amor e favor, santo e compassivo,",
+          "Deus está no templo!"
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "Cristo está no templo! Sumo benefício",
+          "Por seu sangue nos foi dado.",
+          "Ele, o bom Cordeiro, foi o sacrifício",
+          "Que expiou o vil pecado.",
+          "Escolheu e sofreu o cabal suplício.",
+          "Cristo está no templo!"
+        ]
+      },
+      {
+        "numero": 3,
+        "linhas": [
+          "Vem e ocupa o templo, Preceptor Divino!",
+          "Nossos corações habita!",
+          "Ó paciente Mestre, dá-nos teu ensino,",
+          "Aclarando a lei bendita.",
+          "Com prazer e poder, ó Trindade santa,",
+          "Vem e ocupa o templo!"
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "3",
+    "titulo": "DEUS, SOMENTE DEUS",
+    "primeira": "Deus, somente Deus, criou o mundo e o que nele há,",
+    "original": "",
+    "autor": "",
+    "tradutor": "",
+    "melodia": "",
+    "assunto": [""],
+    "tom": "",
+    "harpa": "",
+    "cantor": "",
+    "coro": [""],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "Deus, somente Deus,",
+          "Criou o mundo e o que nele há,",
+          "O ser que pode respirar existe pra mostrar",
+          "A glória do Senhor."
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "Deus, somente Deus, os seus mistérios pode revelar.",
+          "Os seus desígnios quem jamais um dia conheceu?",
+          "Pois Deus, somente é Deus."
+        ]
+      },
+      {
+        "numero": 3,
+        "linhas": [
+          "Deus, somente Deus, domina o trono do universo,",
+          "Que a voz da criação se erga para dar",
+          "Louvor somente a Deus."
+        ]
+      },
+      {
+        "numero": 4,
+        "linhas": [
+          "Deus, somente Deus,",
+          "Eternamente em nós há de inspirar",
+          "A alegria de adorar, desejo de exaltar",
+          "A Deus, somente a Deus."
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "4",
+    "titulo": "ALTAMENTE OS CÉUS PROCLAMAM",
+    "primeira": "Altamente os céus proclamam seu divino criador.",
+    "original": "",
+    "autor": "",
+    "tradutor": "",
+    "melodia": "",
+    "assunto": [""],
+    "tom": "",
+    "harpa": "",
+    "cantor": "",
+    "coro": [""],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "Altamente os céus proclamam seu divino criador.",
+          "Anuncia o firmamento tuas obras, ó Senhor!",
+          "Incessantes, noite e dia, dão sinais do teu poder,",
+          "Sem palavras proclamando Deus excelso no saber."
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "Majestoso, o sol caminha pelo céu com resplendor;",
+          "Exultando em seu percurso, enche o mundo de calor.",
+          "Toda a criação, que é tua, canta em coro o teu louvor:",
+          "Mas, a nós, quão doce ensino vem da boca do Senhor!"
+        ]
+      },
+      {
+        "numero": 3,
+        "linhas": [
+          "Tua lei, quão preciosa! Brilha mais que a clara luz!",
+          "Esclarece as nossas mentes, guia as almas a Jesus.",
+          "Grande e linda recompensa ganhará quem te servir;",
+          "E teus santos mandamentos bem fiel, Senhor, cumprir."
+        ]
+      },
+      {
+        "numero": 4,
+        "linhas": [
+          "Da soberba vem guardar-nos, de impureza e transgressão,",
+          "Nossos passos conduzindo em sincera retidão.",
+          "Nesta graça meditando, cantarei, meu bom Senhor,",
+          "E será, na minha boca, agradável teu louvor."
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "5",
+    "titulo": "AO DEUS DA CRIAÇÃO LOUVAI",
+    "primeira": "Ao Deus da criação louvai, Senhor da natureza;",
+    "original": "",
+    "autor": "",
+    "tradutor": "",
+    "melodia": "",
+    "assunto": [""],
+    "tom": "",
+    "harpa": "",
+    "cantor": "",
+    "coro": [""],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "Ao Deus da criação louvai, Senhor da natureza;",
+          "Graças a ele tributai: é nossa fortaleza.",
+          "Nossa alma enferma Deus refaz",
+          "E nos outorga a sua paz: a Deus louvor e glória!"
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "O que fez Deus com seu poder o seu amor vigia;",
+          "Na noite atroz, no amanhecer, tudo ele guarda e guia.",
+          "No reino eterno do Senhor,",
+          "Reina a justiça, impera o amor: a Deus louvor e glória!"
+        ]
+      },
+      {
+        "numero": 3,
+        "linhas": [
+          "Então, alegre em meu viver, eu canto os seus louvores.",
+          "Que o mundo possa perceber que eu canto os seus favores;",
+          "Alegra-te, meu coração!",
+          "Do corpo e alma, eis a canção: a Deus louvor e glória!"
+        ]
+      },
+      {
+        "numero": 4,
+        "linhas": [
+          "E todos vós que sois cristãos cantai, de Deus, a glória!",
+          "Fazei do mundo inteiro irmãos, narrando a bela história!",
+          "Os falsos deuses derrubai",
+          "E só o eterno Deus pregai: a Deus louvor e glória!"
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "6",
+    "titulo": "AQUI CHEGANDO, SENHOR",
+    "primeira": "Aqui chegando, Senhor, que poderemos te dar?",
+    "original": "",
+    "autor": "",
+    "tradutor": "",
+    "melodia": "",
+    "assunto": [""],
+    "tom": "",
+    "harpa": "",
+    "cantor": "",
+    "coro": [
+      "A tua graça, Senhor, melhor que a vida será",
+      "E o teu amor em nós será manancial,",
+      "De água boa a jorrar, pra nossa sede estancar."
+    ],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "Aqui chegando, Senhor, que poderemos te dar?",
+          "Um simples coração e uma vontade de cantar.",
+          "Recebe o nosso louvor e tua paz vem nos dar!"
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "E, ao sairmos daqui, que poderemos fazer?",
+          "Deixar que o mundo veja em nós a Cristo e seu poder!",
+          "Não temeremos o mal, nenhum poder terreal."
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "7",
+    "titulo": "É ESTE O DIA",
+    "primeira": "É este o dia que o Senhor criou com sua mão;",
+    "original": "",
+    "autor": "",
+    "tradutor": "",
+    "melodia": "",
+    "assunto": [""],
+    "tom": "",
+    "harpa": "",
+    "cantor": "",
+    "coro": [""],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "É este o dia que o Senhor criou com sua mão;",
+          "A terra inteira, os altos céus, louvor, alegres, dão."
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "Foi neste dia que o Senhor da tumba ressurgiu;",
+          "De Satanás, o atroz furor, com força, repeliu."
+        ]
+      },
+      {
+        "numero": 3,
+        "linhas": [
+          "Hosana, dai ao Rei Senhor, ao Filho de Davi!",
+          "Ajuda-nos, ó Salvador, e habita em nós aqui."
+        ]
+      },
+      {
+        "numero": 4,
+        "linhas": [
+          "Hosana, glória e adoração a igreja lhe vem dar!",
+          "Os altos céus se alegrarão, louvando-o sem cessar!"
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "8",
+    "titulo": "É O TEU POVO AQUI PRESENTE",
+    "primeira": "É o teu povo aqui presente.",
+    "original": "",
+    "autor": "",
+    "tradutor": "",
+    "melodia": "",
+    "assunto": [""],
+    "tom": "",
+    "harpa": "",
+    "cantor": "",
+    "coro": [""],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "É o teu povo aqui presente.",
+          "Todos, numa só voz, declarando que só tu és grande.",
+          "Exaltamos teu doce nome",
+          "Pelo amor, pela cruz, Por teu filho Jesus."
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "Pois és santo, sim, és digno",
+          "De louvor e de ser adorado.",
+          "És bondoso, Pai querido,",
+          "Dentre todas as coisas Tu és verdadeiro Senhor!"
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "9",
+    "titulo": "VEM E SOPRA SOBRE NÓS",
+    "primeira": "Vem e sopra sobre nós teu sopro,",
+    "original": "",
+    "autor": "",
+    "tradutor": "",
+    "melodia": "",
+    "assunto": [""],
+    "tom": "",
+    "harpa": "",
+    "cantor": "",
+    "coro": [
+      "Tu és o Senhor de toda glória.",
+      "Hoje, sempre como foste outrora,",
+      "No correr da história revelando teu amor.",
+      "Deus bendito Rei e Salvador!",
+      "Deus bendito Rei e Salvador!"
+    ],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "Vem e sopra sobre nós teu sopro,",
+          "Reunidos neste ajuntamento.",
+          "Honra e santifica este momento,",
+          "Com a tua igreja que é teu povo."
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "Faze teu rio de paz correr no meio",
+          "Destes que por fé vêm bendizer-te",
+          "E à uma voz oferecer-te",
+          "Seus louvores, súplicas e anseios."
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "10",
+    "titulo": "BENDIZE, Ó MINH’ALMA",
+    "primeira": "Bendize, ó minh’alma, bendize ao Senhor!",
+    "original": "",
+    "autor": "",
+    "tradutor": "",
+    "melodia": "",
+    "assunto": [""],
+    "tom": "",
+    "harpa": "",
+    "cantor": "",
+    "coro": [""],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "Bendize, ó minh’alma, bendize ao Senhor!",
+          "E tudo que há em mim, e tudo que há em mim, bendiga o seu santo nome. (2x)"
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "Bendize, ó minh’alma, bendize ao Senhor!",
+          "E não te esqueças, e não te esqueças de nenhum de seus benefícios. (2x)"
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "11",
+    "titulo": "UM HINO AO SENHOR",
+    "primeira": "As grutas, as rochas imensas, dos mundos o grande esplendor Proclamam, bem alto, constantes, um hino ao teu nome, Senhor!",
+    "coro": [
+      "Nos céus, e no mar, e na terra, nos bosques, nos prados em flor,",
+      "No fragoso alcantil, na amplitude celeste, um hino ressoa ao Senhor."
+    ],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "As grutas, as rochas imensas, dos mundos o grande esplendor",
+          "Proclamam, bem alto, constantes, um hino ao teu nome, Senhor!"
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "No céu, as estrelas brilhantes, dos mares o grande fragor,",
+          "E as brisas entoam, ridentes, um hino ao teu nome, Senhor!"
+        ]
+      },
+      {
+        "numero": 3,
+        "linhas": [
+          "As aves alegres, na mata, por entre as ramagens em flor,",
+          "Exultam, em coro, cantando um hino ao teu nome, Senhor!"
+        ]
+      },
+      {
+        "numero": 4,
+        "linhas": [
+          "E tu, pecador, que vagueias, que fazes ao teu criador?",
+          "Não achas momento em que cantes um hino de glória ao Senhor?"
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "12",
+    "titulo": "CRISTO JESUS HÁ DE REINAR",
+    "primeira": "Cristo Jesus há de reinar por onde quer que o sol passar.",
+    "coro": [""],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "Cristo Jesus há de reinar por onde quer que o sol passar.",
+          "Seu reino o mundo irá fruir enquanto a lua reluzir."
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "Preces a ele se erguerão, hinos os povos cantarão;",
+          "Glória darão ao Deus, Senhor, nos sacrifícios de louvor."
+        ]
+      },
+      {
+        "numero": 3,
+        "linhas": [
+          "Tribos e reinos de além-mar no seu amor hão de habitar;",
+          "Vozes infantes se erguerão e o santo nome bendirão."
+        ]
+      },
+      {
+        "numero": 4,
+        "linhas": [
+          "Eis o esperado das nações! Os presos saltam das prisões;",
+          "Os fatigados acham paz e aos pobres, bênçãos, ele traz."
+        ]
+      },
+      {
+        "numero": 5,
+        "linhas": [
+          "Povos cristãos da santa grei, honremos nosso grande rei;",
+          "Anjos entoem ao Senhor e a terra exulte em seu louvor!"
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "13",
+    "titulo": "DEUS DOS ANTIGOS",
+    "primeira": "Deus dos antigos, cuja forte mão rege os milhares de astros na amplidão.",
+    "coro": [""],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "Deus dos antigos, cuja forte mão rege os milhares de astros na amplidão,",
+          "Ó soberano e excelso criador, com gratidão cantamos teu louvor!"
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "Aos nossos pais tu foste inspiração, força e poder, vitória e proteção.",
+          "Oh! Sobre nós, supremo amparador, seja também o teu imenso amor!"
+        ]
+      },
+      {
+        "numero": 3,
+        "linhas": [
+          "No torvelinho e na perturbação dos tempos maus de um mundo em confusão,",
+          "Teu braço forte seja o defensor dos que confiam sempre em ti, Senhor!"
+        ]
+      },
+      {
+        "numero": 4,
+        "linhas": [
+          "Teu povo guia em paz e mansidão, testemunhando a tua redenção,",
+          "E as nossas vidas cantarão, Senhor, com gratidão o teu eterno amor!"
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "14",
+    "titulo": "SANTO ÉS TU, SENHOR!",
+    "primeira": "Santo, santo, santo, santo és tu, Senhor!",
+    "coro": [""],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "Santo, santo, santo, santo és tu, Senhor!",
+          "Santo, santo, santo, santo é teu amor.",
+          "Glória e majestade enchem terra e céus.",
+          "Ricas bênçãos manam do bondoso Deus."
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "Santo, santo, santo, santo és tu, Senhor!",
+          "Santo, santo, santo, santo é teu amor.",
+          "Soam mil louvores ao Senhor e Rei,",
+          "Que em amor profundo guarda a sua grei."
+        ]
+      },
+      {
+        "numero": 3,
+        "linhas": [
+          "Santo, santo, santo, santo és tu, Senhor!",
+          "Santo, santo, santo, santo é teu amor.",
+          "Glória ao Pai e ao Filho e ao Consolador.",
+          "Todos os remidos cantam teu louvor."
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "15",
+    "titulo": "COMO ÁGUA CRISTALINA",
+    "primeira": "Como água cristalina de um rio que vai pro mar, a minha alma vai a ti só pra te adorar.",
+    "coro": [""],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "Como água cristalina de um rio que vai pro mar,",
+          "A minha alma vai a ti só pra te adorar,",
+          "E cantar tua bondade, meu Senhor, meu bom Jesus.",
+          "Aleluia! Dá, minha alma, ao Senhor louvor."
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "Assim como a relva verde na encosta da montanha,",
+          "O meu amor, diante de ti, do mesmo modo se esparrama,",
+          "Se apegando em tua grandeza, minha rocha, meu Jesus.",
+          "Aleluia! Dá, minha alma, ao Senhor louvor."
+        ]
+      },
+      {
+        "numero": 3,
+        "linhas": [
+          "Como abelha necessita do néctar de uma flor,",
+          "Eu não sobreviveria longe de ti, oh! Meu Senhor,",
+          "Pois tu és o meu auxílio, minha vida, minha paz.",
+          "Aleluia! Dá, minha alma, ao Senhor louvor."
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "16",
+    "titulo": "ESTAMOS AQUI, SENHOR",
+    "primeira": "Estamos aqui, Senhor, viemos de todo lugar.",
+    "coro": [""],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "Estamos aqui, Senhor, viemos de todo lugar,",
+          "Trazendo um pouco do que somos pra nossa fé partilhar.",
+          "Trazendo o nosso louvor, um canto de alegria,",
+          "Trazendo a nossa vontade de ver raiar um novo dia."
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "Estamos aqui, Senhor, cercando esta mesa comum,",
+          "Trazendo idéias diferentes, mas em Cristo somos um.",
+          "E, quando sairmos daqui, nós vamos para voltar,",
+          "Na força da esperança e na coragem de lutar."
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "17",
+    "titulo": "HONRA, PODER, MAJESTADE",
+    "primeira": "Honra, poder, majestade, riqueza, sabedoria, domínio e grandeza.",
+    "coro": [""],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "Honra, poder, majestade, riqueza, sabedoria, domínio e grandeza,",
+          "Ao vencedor da batalha é cantado ao ser, no trono do céu, coroado."
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "Soa nos céus, do triunfo, a vitória, vibra na terra, do seu nome, a glória;",
+          "Montes, oceanos, florestas e flores do seu domínio ecoam louvores."
+        ]
+      },
+      {
+        "numero": 3,
+        "linhas": [
+          "Sobe do canto constante alegria: Chuvas dos altos nos vêm cada dia,",
+          "Honra, poder, majestade, entoamos, em nossos hinos que a Deus elevamos."
+        ]
+      },
+      {
+        "numero": 4,
+        "linhas": [
+          "Dai ao Cordeiro o louvor que é devido.",
+          "Com palma e harpa; de rubro vestido",
+          "Foi imolado - aparente fraqueza,",
+          "Mas triunfante já vive em grandeza!"
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "18",
+    "titulo": "JESUS, TEU NOME É SANTO",
+    "primeira": "Jesus, teu nome é santo, amável teu querer!",
+    "coro": [""],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "Jesus, teu nome é santo, amável teu querer!",
+          "Louvor supremo e puro amor queremos te render.",
+          "Poder e honra e glória a ti nós vimos tributar",
+          "E com fervente gratidão teu culto celebrar."
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "Jesus, teu nome é santo! Merece o nosso amor.",
+          "Nos altos céus és nosso Deus, és nosso protetor.",
+          "Incomparável sempre és tu, em tua compaixão:",
+          "Quiseste, para o mal vencer, fazer-te nosso irmão!"
+        ]
+      },
+      {
+        "numero": 3,
+        "linhas": [
+          "Jesus, teu nome é santo! Venceste sobre a cruz.",
+          "O teu sofrer, o teu penar à vida nos conduz.",
+          "Na glória já sentado estás, atento à adoração",
+          "Que os crentes vêm, fiéis, prestar com grato coração."
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "19",
+    "titulo": "JUSTO ÉS, SENHOR!",
+    "primeira": "Justo és, Senhor, em teus santos caminhos e digno em tuas obras todas!",
+    "coro": [""],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "Justo és, Senhor, em teus santos caminhos e digno em tuas obras todas!",
+          "E perto estás dos que te invocam, de todos que te invocam em verdade.",
+          "Aleluia! Aleluia!"
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "20",
+    "titulo": "BRILHA JESUS",
+    "primeira": "Luz do amor de Jesus que brilha, mesmo nas densas trevas brilha.",
+    "coro": [
+      "Brilha, Jesus! Enche a terra da tua glória.",
+      "Consolador, fogo ateia em nós!",
+      "Para inundar as nações com a tua graça,",
+      "Que tua voz fale em nós, e haja luz!"
+    ],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "Luz do amor de Jesus que brilha,",
+          "Mesmo nas densas trevas brilha,",
+          "Luz do mundo, que tua verdade",
+          "Brilhe em nós e nos dê liberdade.",
+          "Brilha, Jesus! Sim, brilha em nós!"
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "Venho em tua presença santa,",
+          "Onde o teu esplendor me espanta,",
+          "Pelo sangue o teu brilho acrescenta,",
+          "Tua luz trevas sempre afugenta.",
+          "Brilha, Jesus! Sim, brilha em nós!"
+        ]
+      },
+      {
+        "numero": 3,
+        "linhas": [
+          "No teu brilho real que esplende",
+          "Nossa face a brilhar aprende.",
+          "Transformados de glória em glória,",
+          "Mudaremos assim nossa história.",
+          "Brilha, Jesus! Sim, brilha em nós!"
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "20b",
+    "titulo": "BRILHA JESUS",
+    "primeira": "Vejo a luz do Senhor que brilha, bem no meio das trevas brilha.",
+    "coro": [
+      "Brilha Jesus, mostra ao mundo a luz de Deus Pai",
+      "Espirito de Deus, vem refulge em nós",
+      "Faz transbordar sobre os povos tua graça e perdão,",
+      "Vem ordenar que haja luz oh Senhor."
+    ],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "Vejo a luz do Senhor que brilha",
+          "Bem no meio das trevas brilha",
+          "Jesus Cristo é a luz deste mundo",
+          "Nos acorda do sono profundo",
+          "Brilha em mim, brilha em mim."
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "Eis me achego ao teu trono incrível",
+          "O mais finito ao intangível",
+          "Por teu sangue precioso eu ouso entrar",
+          "Minhas sombras da alma vem dissipar",
+          "Brilha em mim, brilha em mim."
+        ]
+      },
+      {
+        "numero": 3,
+        "linhas": [
+          "Contemplando tua majestade",
+          "Teu reflexo em nossas faces",
+          "Cada dia de glória em glória",
+          "Mostrem sempre a tua história",
+          "Brilha em mim, brilha em mim."
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "21",
+    "titulo": "AO ÚNICO QUE É DIGNO",
+    "primeira": "Ao único que é digno de receber",
+    "original": "",
+    "autor": "",
+    "coro": [""],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "Ao único que é digno de receber",
+          "A honra e a glória, a força e o poder.",
+          "Ao rei eterno, imortal, invisível, mas real,",
+          "A ele oferecemos o louvor."
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "Coroado és tu, ó rei Jesus!",
+          "Coroado és tu, ó rei Jesus!",
+          "Adoramos o teu nome, nos rendemos a teus pés.",
+          "Consagramos todo nosso ser a ti.",
+          "Consagramos todo nosso ser a ti."
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "22",
+    "titulo": "PRONTOS PARA ADORAÇÃO",
+    "primeira": "Estamos juntos, prontos, Para adoração que vem de dentro,",
+    "original": "",
+    "autor": "Jorge Rehder",
+    "coro": [
+      "Cristo, nosso lampião, que trouxe luz em meio à escuridão,",
+      "Que fez da cruz prova maior, do amor trouxe amizade,",
+      "Com o seu perdão, viva esperança, fé e união."
+    ],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "Estamos juntos, prontos, Para adoração que vem de dentro,",
+          "Vem do coração que traz alento, força nova pra viver,",
+          "Que faz da alma um recanto da canção."
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "Estamos juntos, prontos, Para a comunhão que faz do amor",
+          "Uma celebração; nosso louvor",
+          "Iremos todos dedicar a Jesus"
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "23",
+    "titulo": "MIL LÍNGUAS EU QUISERA TER",
+    "primeira": "Mil línguas eu quisera ter",
+    "original": "O for a Thousand Tongues to Sing",
+    "autor": "Charles Wesley ",
+    "tradutor": "Jaci Maraschin",
+    "coro": [],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "Mil línguas eu quisera ter,", "mil vozes pra louvar",
+          "As glórias de meu Deus, meu rei,", "triunfos de seu dom."
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "Gracioso mestre, meu Senhor,", "ajuda-me a pregar",
+          "Por toda a terra, céu e mar,", "as honras do teu ser."
+        ]
+      },
+      {
+        "numero": 3,
+        "linhas": [
+          "Jesus, contigo, sem temor,", "se acaba a nossa dor;",
+          "Pro pecador és belo som,", "saúde, vida e paz."
+        ]
+      },
+      {
+        "numero": 4,
+        "linhas": [
+          "O meu pecado e todo mal", "tal sangue vem lavar.",
+          "Destrói as grades das prisões", "com tua santa mão."
+        ]
+      },
+      {
+        "numero": 5,
+        "linhas": [
+          "Quando ele fala, a sua voz", "a vida a todos traz.",
+          "O triste nele se compraz", "e o pobre, humilde, crê."
+        ]
+      },
+      {
+        "numero": 6,
+        "linhas": [
+          "Os surdos ouvem afinal", " e os mudos vem cantar;",
+          "Os coxos andam a saltar", "e os cegos já te vêem."
+        ]
+      },
+      {
+        "numero": 7,
+        "linhas": [
+          "Honra, louvor e glória a Deus", "teus santos todos dão;",
+          "E um canto novo entoarão,", " unindo terra e céu."
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "24",
+    "titulo": "Ó DEUS, ETERNO AJUDADOR",
+    "primeira": "Ó Deus, eterno ajudador",
+    "original": "O God, Our Help in Ages Past",
+    "autor": "Isaac Watts",
+    "tradutor": "João W. Faustini",
+    "coro": [],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "Ó Deus, eterno ajudador,", "Senhor do que há de vir,",
+          "No temporal és protetor", " e abrigo a nos servir."
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "Estava o mundo em formação", "e os montes a fundir,",
+          "Reinavas já, ó Deus, então,", "nos tempos do porvir."
+        ]
+      },
+      {
+        "numero": 3,
+        "linhas": [
+          "Mil anos são aos olhos teus", "qual luz crepuscular;",
+          "Mais breves são que aurora,", "ó Deus, que foge ao sol raiar."
+        ]
+      },
+      {
+        "numero": 4,
+        "linhas": [
+          "O tempo é qual vagante rio", "que corre para o mar;",
+          "Qual sonho breve é seu feitio,", "fugaz seu caminhar."
+        ]
+      },
+      {
+        "numero": 5,
+        "linhas": [
+          "Ó Deus, eterno ajudador,", "Senhor do que há de vir,",
+          "Sê hoje e sempre protetor", "e abrigo a nos servir."
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "25",
+    "titulo": "LOUVORES E HONRAS",
+    "primeira": "Louvores e honras ao nome de Cristo",
+    "original": "",
+    "autor": "Guilherme Kerr Neto",
+    "coro": [],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "Louvores e honras ao nome de Cristo",
+          "Convém, fica bem adorar ao Senhor.",
+          "Quem já viu em sua vida o que nós temos visto",
+          "Só pode dizer que ele é cheio de amor."
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "Cristo salva e sustenta,", "com mão poderosa,",
+          "Seus eleitos e amados, bem perto de si."
+        ]
+      },
+      {
+        "numero": 3,
+        "linhas": [
+          "Cristo chama, ele inflama de amor pela obra.",
+          "Renova, restaura, nos reclama pra si.",
+          "Estou pronto pra ir, Cristo amado,",
+          "E seguir-te onde queres que eu vá,",
+          "E servir com amor dedicado,",
+          "Com meus lábios pra sempre louvar."
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "26",
+    "titulo": "EIS-NOS, Ó PASTOR DIVINO",
+    "primeira": "Eis-nos, ó pastor divino",
+    "original": "",
+    "autor": "Sarah Poulton Kalley",
+    "coro": [],
+    "cantor": "152",
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "Eis-nos, ó pastor divino,", "todos juntos num lugar,",
+          "Como ovelhas, congregados,", "teu auxílio a suplicar.",
+          "Sê presente, sê presente,", "o rebanho a apascentar!",
+          "Sê presente, sê presente,", "o rebanho a apascentar!"
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "Aos perdidos, vem, bondoso,", "tua voz fazer ouvir;",
+          "Chama a ti os desgarrados", "para teu amor fruir;",
+          "Aos enfermos, aos enfermos,", "prestes digna-te a acudir.",
+          "Aos enfermos, aos enfermos,", "prestes digna-te a acudir."
+        ]
+      },
+      {
+        "numero": 3,
+        "linhas": [
+          "Guia os tristes, fatigados,", "ao aprisco do Senhor!",
+          "Leva os tenros cordeirinhos", "nos teus braços, bom pastor,",
+          "Às pastagens, às pastagens,", "de celeste e doce amor!",
+          "Às pastagens, às pastagens,", "de celeste e doce amor!"
+        ]
+      },
+      {
+        "numero": 4,
+        "linhas": [
+          "Ó Jesus bondoso,", "escuta nossa humilde petição!",
+          "Vem encher o teu rebanho", "de sincera gratidão!",
+          "Cantaremos, cantaremos,", "tua imensa compaixão.",
+          "Cantaremos, cantaremos,", "tua imensa compaixão."
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "27",
+    "titulo": "Ó PAI ETERNO DAS CRIATURAS",
+    "primeira": "Ó Pai eterno das criaturas,",
+    "original": "Salmo 8",
+    "autor": "Adapt. Ílbia Jansen Cintra Damião",
+    "coro": [],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "Ó Pai eterno das criaturas,",
+          "Teu nome, ó Deus, é maravilhoso,",
+          "Em toda terra e nas alturas,",
+          "Teu santo nome é majestoso!"
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "Santos louvores cantam crianças",
+          "E enaltecem tua grandeza;",
+          "Para calares os inimigos",
+          "Tu construíste a fortaleza."
+        ]
+      },
+      {
+        "numero": 3,
+        "linhas": [
+          "Quando contemplo o céu e a lua,",
+          "E as estrelas em seus lugares,",
+          "Que são pessoas para que as lembres",
+          "E te preocupes com seus pesares?"
+        ]
+      },
+      {
+        "numero": 4,
+        "linhas": [
+          "Pouco menor que tu nos fizeste,",
+          "De honra e glória nos coroaste.",
+          "Todo o domínio, Senhor, nos deste,",
+          "Sobre as coisas que tu criaste."
+        ]
+      },
+      {
+        "numero": 5,
+        "linhas": [
+          "Sobre rebanhos, seres selvagens,",
+          "Pássaros, peixes dos rios e mares,",
+          "Seres terrestres, seres marinhos,",
+          "Aves que voam livres nos ares!"
+        ]
+      },
+      {
+        "numero": 6,
+        "linhas": [
+          "Ó Pai eterno das criaturas,",
+          "Teu nome, ó Deus, é maravilhoso,",
+          "Em toda a terra e nas alturas,",
+          "Teu santo nome é majestoso!"
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "28",
+    "titulo": "VINDE ADORAR",
+    "primeira": "Oh! Vinde adorar ao Deus criador,",
+    "original": "",
+    "autor": "Henry Maxwell Wright",
+    "coro": [],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "Oh! Vinde adorar ao Deus criador,",
+          "Da terra e dos céus eterno Senhor.",
+          "Ao Deus que, habitando no mundo da luz,",
+          "A nós se revela por Cristo Jesus."
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "Seu grande poder podeis contemplar",
+          "Na terra e nos céus reinando sem par.",
+          "A gota de orvalho, das plantas a flor",
+          "Proclamam, constantes, ser Deus seu autor."
+        ]
+      },
+      {
+        "numero": 3,
+        "linhas": [
+          "Oh! Vinde adorar ao Deus salvador,",
+          "Que em Cristo Jesus nos mostra favor;",
+          "Ao Deus que, benigno, com graça e perdão,",
+          "Pecados cobrindo, nos dá redenção."
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "29",
+    "titulo": "Ó REI SUBLIME",
+    "primeira": "Ó rei sublime em majestade e glória",
+    "original": "",
+    "autor": "Sarah Poulton Kalley",
+    "coro": [
+      "Vinde, ó remidos, filhos de Deus;",
+      "Dai vossas glórias que enlevam os céus!"
+    ],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "Ó rei sublime em majestade e glória", "sobre as milícias do celeste além!",
+          "Ouve o louvor, os hinos de vitória", "dos que de ti recebem todo o bem!"
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "Nos altos céus, augustos anjos soam", "glória eternal ao soberano amor,",
+          "E em coro os salvos com fervor entoam", "o nome ilustre de seu benfeitor."
+        ]
+      },
+      {
+        "numero": 3,
+        "linhas": [
+          "Santo és, ó Deus! Reinando eternamente,", "tens sobre o mundo império sem igual.",
+          "Teus são a terra, os céus e o mar fremente;", "Em tudo opera o teu poder real!"
+        ]
+      },
+      {
+        "numero": 4,
+        "linhas": [
+          "Ó santo Deus! No pó nos vês prostrados,", "ante o fulgor da resplendente luz,",
+          "Junto a teus pés, os filhos resgatados,", "servos inúteis, salvos por Jesus!"
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "30a",
+    "titulo": "AÇÕES DE GRAÇAS",
+    "primeira": "Os povos que na terra estão",
+    "original": "Salmo 100",
+    "autor": "Robert R. Wright",
+    "tradutor": "Robert Reid Kalley",
+    "coro": [],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "Os povos que na terra estão", "a Deus bendigam com prazer;",
+          "Os anjos dão-lhe adoração.", "Assim devemos nós fazer."
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "Na casa entremos do Senhor,", "por seus louvores celebrar;",
+          "Ovelhas somos de um pastor", "a quem buscamos adorar."
+        ]
+      },
+      {
+        "numero": 3,
+        "linhas": [
+          "Sejamos servos de Jesus", "e bem guardemos sua lei;",
+          "Levemos sempre a nossa cruz,", "seguindo a Cristo, o santo rei."
+        ]
+      },
+      {
+        "numero": 4,
+        "linhas": [
+          "Tudo ao teu nome louvará,", "porque bondoso és tu, Senhor.",
+          "O teu amor sem fim será:", "és sempre o mesmo, o benfeitor."
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "30b",
+    "titulo": "LOUVOR A DEUS",
+    "primeira": "Quem pelo mundo transitar",
+    "original": "Salmo 100",
+    "autor": "Sarah Poulton Kalley",
+    "coro": [],
+    "estrofes": [
+      {
+        "numero": 1,
+        "linhas": [
+          "Quem pelo mundo transitar,", "a Deus bendiga com prazer,",
+          "Saiba em espírito adorar aquele", "que lhe deu o ser."
+        ]
+      },
+      {
+        "numero": 2,
+        "linhas": [
+          "Entrai na casa do Senhor", "e seus louvores entoai;",
+          "Ovelhas sois do bom pastor", "e filhos do celeste Pai."
+        ]
+      },
+      {
+        "numero": 3,
+        "linhas": [
+          "Também sois servos de Jesus,", "guardai, portanto, a sua lei;",
+          "Vivendo sempre em sua luz,", "seu santo nome engrandecei."
+        ]
+      },
+      {
+        "numero": 4,
+        "linhas": [
+          "A vida eterna nos dará", "por sua infinda compaixão;",
+          "O seu amor sem fim será;", "gloriosa a nossa redenção."
+        ]
+      }
+    ]
+  },
+
+
+  {
+    "numero": "",
+    "titulo": "",
+    "primeira": "",
+    "original": "",
+    "autor": "",
+    "tradutor": "",
+    "melodia": "",
+    "assunto": [""],
+    "tom": "",
+    "harpa": "",
+    "cantor": "",
+    "coro": [""],
+    "estrofes": [{
+      "numero": 1,
+      "linhas": []
+    }]
+  },
+  {
+    "numero": "",
+    "titulo": "",
+    "primeira": "",
+    "original": "",
+    "autor": "",
+    "tradutor": "",
+    "melodia": "",
+    "assunto": [""],
+    "tom": "",
+    "harpa": "",
+    "cantor": "",
+    "coro": [""],
+    "estrofes": [{
+      "numero": 1,
+      "linhas": []
+    }]
+  },
+  {
+    "numero": "",
+    "titulo": "",
+    "primeira": "",
+    "original": "",
+    "autor": "",
+    "tradutor": "",
+    "melodia": "",
+    "assunto": [""],
+    "tom": "",
+    "harpa": "",
+    "cantor": "",
+    "coro": [""],
+    "estrofes": [{
+      "numero": 1,
+      "linhas": []
+    }]
+  },
+  {
+    "numero": "",
+    "titulo": "",
+    "primeira": "",
+    "original": "",
+    "autor": "",
+    "tradutor": "",
+    "melodia": "",
+    "assunto": [""],
+    "tom": "",
+    "harpa": "",
+    "cantor": "",
+    "coro": [""],
+    "estrofes": [{
+      "numero": 1,
+      "linhas": []
+    }]
+  },
+  {
+    "numero": "",
+    "titulo": "",
+    "primeira": "",
+    "original": "",
+    "autor": "",
+    "tradutor": "",
+    "melodia": "",
+    "assunto": [""],
+    "tom": "",
+    "harpa": "",
+    "cantor": "",
+    "coro": [""],
+    "estrofes": [{
+      "numero": 1,
+      "linhas": []
+    }]
+  },
+
+  {
+    "numero": 136,
     "titulo": "Buscai Primeiro",
     "nome_original": "Seek Ye First",
     "autor": "Karen Lafferty",
     "arranjo": "Mauricio Silveira",
-    "assunto": "Consagração",
+    "assunto": ["Consagração"],
     "tom": "C",
-    "partes": [
+    "harpa": "",
+    "cantor": "",
+    "coro": [""],
+    "estrofes": [
       {
         "numero": 1,
         "linhas": [

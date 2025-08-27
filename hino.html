@@ -60,14 +60,14 @@
 
   // Função para carregar e mostrar o hino na página
   function carregarHino() {
-    const hino = hinos[1]; // pegar o primeiro hino
+    const hino = hinos[0]; // pegar o primeiro hino
 
     const container = document.getElementById('hino');
     container.innerHTML = `
       <h2>${hino.numero} - ${hino.titulo}</h2>
       <p><b>Nome original:</b> ${hino.original}</p>
       <p><b>Autor:</b> ${hino.autor}</p>
-      <p><b>Arranjo:</b> ${hino.arranjo}</p>
+      <p><b>Arranjo:</b> ${hino.arranjo??''}</p>
       <p><b>Assunto(s):</b> ${hino.assunto.join(", ")}</p>
       <p><b>Tom:</b> ${hino.tom}</p>
     `;

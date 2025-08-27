@@ -90,6 +90,16 @@ body {
     font-weight: 500;
 }
 
+    a,
+    a:visited,
+    a:hover,
+    a:active,
+    a:focus {
+    color: currentColor;
+    text-decoration: none;
+    }
+
+
 @media (max-width: 768px) {
 
 
